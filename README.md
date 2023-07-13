@@ -20,3 +20,6 @@
 싸피에 입과해 처음으로 코딩을 배우게 되었는데, 부족하지만 열심히 그리고 꾸준히 성장해 나가겠습니다. 스스로뿐만 아니라 함께하는 여러분들과 교수님께 도움을 주기도, 요청하기도 하면서 보람찬 한 학기가 되면 좋겠고 열정과 의지는 가득하지만 가끔 배운 지식을 제대로 활용 못 하는 상황이 오더라도 포기하지 않고 끝까지 해내겠습니다.
 
 ![이미지](https://postfiles.pstatic.net/MjAyMzA2MDRfMjg0/MDAxNjg1ODU2NzExNjMz.h85Un8G5Ane3R4xbUp1J2URTF8xNd2FPKhOTFdH5N28g.qSge6mjw1N66HWFHaGQJlyfN1M1i9KvMIkZ3cV3zU9sg.PNG.pkt1268/image.png?type=w773) 
+
+
+- 4차
