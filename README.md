@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=7b66ff&height=160&section=header&text=신웅's%20github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=bbdfff&height=160&section=header&text=신웅's%20github&fontSize=40)
 
 ## Experience
 
@@ -34,20 +34,20 @@ Communication :
 
 | Title | Introduction | Languages, etc. |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/sinoong/Throwng">쓰롱</a> | Location-based music sharing open source (2024) | TypeScript, React, Sass, Recoil, Vite, Flutter, Dart, Dio, Flutter Secure Storage |
-| <a href="https://github.com/sinoong/Perfect Fit">안쏭맞춤</a> | 여행 정산 어플리케이션 (2024) | Flutter, Dart, Dio, Flutter Secure Storage, Provider |
-| <a href="https://github.com/sinoong/S-jima">애쓰지마</a> | 낚시에 입문하고자 하는 MZ세대 맞춤 입문자용 낚시 서비스 (2024) | JavaScript, React, Sass, OpenVidu, Vite |
-| <a href="https://github.com/sinoong/Dasuney+">다주니+</a> | SAM$UNG BVNK (2023) | JavaScript, Vue.js |
+| <a href="https://github.com/sinoong/Throwng">쓰롱</a> | 위치 기반 공유 오픈 소스 (2024) | TypeScript, React, Sass, Recoil, Vite, Jenkins, Docker, FCM |
+| <a href="https://github.com/sinoong/PerfectFit">안쏭맞춤</a> | 사용자 자동 맞춤 노래방 서비스 (2024) | TypeScript, React, Sass, Zustand, Vite |
+| <a href="https://github.com/sinoong/S-jima">애쓰지마</a> | 실시간 주차 자리 안내 시스템 (2024) | JavaScript, React, Sass, Vite |
+| <a href="https://github.com/sinoong/Dasuney">다주니+</a> | 오직 나를 위한 영화관 (2023) | JavaScript, Vue.js, Django |
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yid0816)](https://solved.ac/yid0816/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw6897)](https://solved.ac/qw6897/) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yid0816&theme=warm)
 
 <br>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muminjun&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="MinJun's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminjun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinoong&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="sinoong's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoong&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
