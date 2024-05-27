@@ -42,7 +42,7 @@ Communication :
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw6897)](https://solved.ac/qw6897/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yid0816&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=qw6897&theme=warm)
 
 <br>
 
