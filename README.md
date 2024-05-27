@@ -41,18 +41,7 @@ Communication :
 
 <br>
 
-// [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw6897)](https://solved.ac/qw6897/) 
-// ![mazandi profile](http://mazandi.herokuapp.com/api?handle=qw6897&theme=warm)
-
-<br>
-
-
-// | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinoong&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="sinoong's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoong&layout=compact&theme=buefy&hide_border=true" /></a> |
-// | ------------- | ------------- |
-
-
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw6897)](https://solved.ac/qw6897/) 
 
 
 </div>
