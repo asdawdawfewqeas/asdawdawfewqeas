@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Input%20text&section=header&reversal=false&fontAlign=50&fontSize=40&textBg=false&animation=fadeIn&strokeWidth=0.5)
+![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Input%20text&section=header&reversal=false&fontAlign=50&fontSize=40&textBg=false&animation=fadeIn&fontColor=ffffff&strokeWidth=0.5&stroke=ececec)
 
 ## Experience
 
