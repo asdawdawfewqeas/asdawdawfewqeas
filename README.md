@@ -42,6 +42,7 @@ Communication :
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw6897)](https://solved.ac/qw6897/) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoong&layout=compact&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
 
 
 </div>
